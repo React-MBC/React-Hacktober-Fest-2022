@@ -42,16 +42,17 @@ where `username` is your GitHub username. Here you're copying the contents of th
   
 ## Make Necessary changes
 
-Open up the project in your favourite text editor, inside the preffered folder create a new folder with your name and add your file.Make sure to save the edits.
+Open up the project in your favourite text editor, inside the `Hack Here` create a new folder with your name and add your file. Make sure to save the edits.
 
 Try adding a  ```Readme.md``` file. This should contain a brief description of the projects in the folder.
 
 ## Add and Commit your changes
+
 Open Git Bash, navigate to the project directory and execute the command ```git status```, you'll see there are changes.
  Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add filen
+git add filename
 ```
 You can also add all the unstaged files using : ```git add .```  
 
