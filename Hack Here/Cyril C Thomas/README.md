@@ -12,3 +12,7 @@ ___
 - [OCR App](https://github.com/React-MBC/React-Hacktober-Fest-2022/tree/main/Hack%20Here/Cyril%20C%20Thomas/OCR.py)
     
     -  Python Tkinter Application to Detect Text from Images using easyocr.
+
+- [File Hash](https://github.com/React-MBC/React-Hacktober-Fest-2022/tree/main/Hack%20Here/Cyril%20C%20Thomas/file_hash.py)
+    
+    -  Find hash of a file using python.
