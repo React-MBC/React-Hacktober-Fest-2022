@@ -24,3 +24,7 @@ ___
 - [Elapsed Time Calculator](https://github.com/React-MBC/React-Hacktober-Fest-2022/tree/main/Hack%20Here/Cyril%20C%20Thomas/elapsed_time.py)
     
     -  Calcultes elapsed between different processes running in python.
+    
+- [Countdown Timer](https://github.com/React-MBC/React-Hacktober-Fest-2022/tree/main/Hack%20Here/Cyril%20C%20Thomas/countdown_timer.py)
+    
+    -  Counts the time mentioned as the limit
