@@ -20,3 +20,7 @@ ___
 - [Number Converter](https://github.com/React-MBC/React-Hacktober-Fest-2022/tree/main/Hack%20Here/Cyril%20C%20Thomas/num_converter.py)
     
     -  Convert Decimal Number to Octal, Binary and Hexadecimal Number using Python.
+    
+- [Elapsed Time Calculator](https://github.com/React-MBC/React-Hacktober-Fest-2022/tree/main/Hack%20Here/Cyril%20C%20Thomas/elapsed_time.py)
+    
+    -  Calcultes elapsed between different processes running in python.
