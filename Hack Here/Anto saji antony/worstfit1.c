@@ -53,4 +53,3 @@ printf("\n the process %dk cannot be placed",pro[i]);
 }
 }
 }
-
